@@ -33,7 +33,7 @@ You will be building the logic and code which belongs in the methods:
 
 **drawGridPaper**
 * Create both horizontal and vertical lines that cover the whole screen. Each line should be separated by the boxLength amount.
-* Each vertical line should use stroke (230, 30, 100). Horizontal lines should use stroke(0, 30, 100).
+* Each vertical line should use stroke (0, 30, 100). Horizontal lines should use stroke (230, 30, 100).
 * If isEngineer is true, then each 5th line (both horizontal and vertical) should be thicker. Use the strokeWeight(#) method to create thicker lines for these. Values of 3 for thick lines and 1 for regular lines work well.
 
 ![Grid Example](./src/resources/GridPaper.png)
